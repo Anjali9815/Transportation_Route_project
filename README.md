@@ -6,7 +6,7 @@ This project is focused on generating, analyzing, and optimizing real-time trans
 
 ## 📂 Project Structure
 
-### 1. `data_generation_api.py`
+### 1. `Data_Generation_api.py`
 This script is responsible for generating realistic transportation route data between cities using **6 real-time APIs**:
 - Google Maps API
 - OpenRouteService (ORS)
@@ -19,7 +19,7 @@ It gathers travel distances, durations, and weather conditions between all city-
 
 ---
 
-### 2. `eda_and_analysis.py` (PySpark-based Analysis)
+### 2. `DS603_FinalProject_Jha_DAntuluri_Vanduvalli.ipynb` (PySpark-based Analysis)
 This module performs data fetching, cleaning, and exploratory data analysis (EDA) using **PySpark** and `pandas`.
 
 #### 🔄 Data Ingestion
